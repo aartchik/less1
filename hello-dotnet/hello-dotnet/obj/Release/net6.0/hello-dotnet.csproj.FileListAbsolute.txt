@@ -1,0 +1,15 @@
+/home/kkrox/projects/git_test/hello-dotnet/hello-dotnet/bin/Release/net6.0/hello-dotnet
+/home/kkrox/projects/git_test/hello-dotnet/hello-dotnet/bin/Release/net6.0/hello-dotnet.deps.json
+/home/kkrox/projects/git_test/hello-dotnet/hello-dotnet/bin/Release/net6.0/hello-dotnet.runtimeconfig.json
+/home/kkrox/projects/git_test/hello-dotnet/hello-dotnet/bin/Release/net6.0/hello-dotnet.dll
+/home/kkrox/projects/git_test/hello-dotnet/hello-dotnet/bin/Release/net6.0/ref/hello-dotnet.dll
+/home/kkrox/projects/git_test/hello-dotnet/hello-dotnet/bin/Release/net6.0/hello-dotnet.pdb
+/home/kkrox/projects/git_test/hello-dotnet/hello-dotnet/obj/Release/net6.0/hello-dotnet.csproj.AssemblyReference.cache
+/home/kkrox/projects/git_test/hello-dotnet/hello-dotnet/obj/Release/net6.0/hello-dotnet.GeneratedMSBuildEditorConfig.editorconfig
+/home/kkrox/projects/git_test/hello-dotnet/hello-dotnet/obj/Release/net6.0/hello-dotnet.AssemblyInfoInputs.cache
+/home/kkrox/projects/git_test/hello-dotnet/hello-dotnet/obj/Release/net6.0/hello-dotnet.AssemblyInfo.cs
+/home/kkrox/projects/git_test/hello-dotnet/hello-dotnet/obj/Release/net6.0/hello-dotnet.csproj.CoreCompileInputs.cache
+/home/kkrox/projects/git_test/hello-dotnet/hello-dotnet/obj/Release/net6.0/hello-dotnet.dll
+/home/kkrox/projects/git_test/hello-dotnet/hello-dotnet/obj/Release/net6.0/ref/hello-dotnet.dll
+/home/kkrox/projects/git_test/hello-dotnet/hello-dotnet/obj/Release/net6.0/hello-dotnet.pdb
+/home/kkrox/projects/git_test/hello-dotnet/hello-dotnet/obj/Release/net6.0/hello-dotnet.genruntimeconfig.cache

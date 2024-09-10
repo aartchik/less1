@@ -1,0 +1,5 @@
+/home/kkrox/projects/git_test/hello-dotnet/hello-dotnet/bin/Release/net6.0/publish/hello-dotnet
+/home/kkrox/projects/git_test/hello-dotnet/hello-dotnet/bin/Release/net6.0/publish/hello-dotnet.dll
+/home/kkrox/projects/git_test/hello-dotnet/hello-dotnet/bin/Release/net6.0/publish/hello-dotnet.deps.json
+/home/kkrox/projects/git_test/hello-dotnet/hello-dotnet/bin/Release/net6.0/publish/hello-dotnet.runtimeconfig.json
+/home/kkrox/projects/git_test/hello-dotnet/hello-dotnet/bin/Release/net6.0/publish/hello-dotnet.pdb
